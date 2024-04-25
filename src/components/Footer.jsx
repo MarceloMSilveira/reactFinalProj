@@ -5,9 +5,9 @@ const actualYear = date.getFullYear();
 
 function Footer() {
     return(
-        <div className="footer">
+        <footer>
             <p>Copyright© MarceluS 1lveira {actualYear}</p>
-        </div>
+        </footer>
     )
 }
 
